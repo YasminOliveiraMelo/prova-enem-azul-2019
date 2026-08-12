@@ -21,7 +21,7 @@ from PIL import Image
 import os
 import re
 
-pasta_imagens = "colunas_concatenadas_verticalmente.png"
+pasta_imagens = "divididas-sem-bordas-do-meio"
 pasta_saida = "."
 os.makedirs(pasta_saida, exist_ok=True)
 
